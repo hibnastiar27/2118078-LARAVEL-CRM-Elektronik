@@ -1,4 +1,4 @@
-# Database Sistem Informasi CRM Toko Elektronik
+# Database & Backend Sistem Informasi CRM Toko Elektronik
 
 ## Nur Aria Hibnastiar || 2118078
 
